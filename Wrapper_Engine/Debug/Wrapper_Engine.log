@@ -1,0 +1,6 @@
+﻿  Engine.cpp
+C:\Users\Олег\source\repos\Wrapper_Engine\Wrapper_Engine\Engine.cpp(8,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Main.cpp
+  Создание кода...
+C:\Users\Олег\source\repos\Wrapper_Engine\Wrapper_Engine\Engine.cpp(14): warning C4715: Engine::execute: значение возвращается не при всех путях выполнения
+  Wrapper_Engine.vcxproj -> C:\Users\Олег\source\repos\Wrapper_Engine\Debug\Wrapper_Engine.exe
